@@ -1,0 +1,67 @@
+/* https://www.youtube.com/watch?v=QR40RON4S-4 */
+
+//installed create-react globally
+npm install -g create-react-app
+
+//created project
+create-react-app portfolio
+
+//installed yarn
+npm install yarn -g yarn
+
+//integrated yarn into app, and react dom
+yarn add react rect-dom
+
+// launched dev server by
+npm start
+
+//ejected
+npm run ejected
+
+//created routes.js in /src
+
+//created containers folder
+
+//moved app.js into /containers
+
+//removed defaults from app.js
+
+//editted routes.js
+
+//created Home.js in /containers to reference in routes.js and imported
+
+//created App.js in /containers to reference in routes.js and imported
+
+//created assets page to store islamic art picture /src
+
+//added additonal pictures to practice adding pictures to the home page
+
+//had to install styled components and mind the syntax when creating a comonent
+
+//used component to style one picture to fit the width of the screen
+
+//commented out extra pictures
+
+//inserted an ipsum (text place holder)
+
+//created /src/theme/globalTheme.js
+
+//added font from google fonts, minding the `` syntax
+
+//went back to the index file to import the global styles
+
+//worked on container.js
+
+//went back to home to import Container.js
+
+//used Container instead of div
+
+222222222222222222
+
+333333333333333333
+
+
+
+
+
+
