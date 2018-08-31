@@ -14,7 +14,7 @@ export default class Home extends Component {
       <Container>
         <HeroImage>
           <h1>Austin Leonardo</h1>
-          <h2>Full-Stack Developer</h2>
+          <h2>Professional Headass</h2>
         </HeroImage>
         <h1>Home Page</h1>
         {/* <img src={require('../assets/Lubna-Zahid-motif-callig.jpg')} alt='islamic-art'/> */}
