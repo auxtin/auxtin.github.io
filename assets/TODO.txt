@@ -1,0 +1,7 @@
+-get contact page up and runnning
+-revise formatting of individual pages
+-fix css identifier to represent the section
+-add picture of myself
+-showcase a project
+-upload revised version of Resume
+
